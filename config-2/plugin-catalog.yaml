@@ -11,3 +11,5 @@ configurations:
         #url: http://www.example.org/jenkins-plugins/my-custom-plugin-1.2.3.hpi
       manage-permission: 
         version: 1.0.1
+      urbancode-velocity: 
+        version: 2.1.3
