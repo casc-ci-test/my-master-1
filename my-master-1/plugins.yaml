@@ -1,0 +1,10 @@
+plugins:
+  # In CloudBees Assurance Program (CAP)
+  - { id: "configuration-as-code" }
+  - { id: "cloudbees-casc-api" }
+  - { id: "git" }
+  - { id: "maven-plugin" }
+  - { id: "nectar-rbac" }
+  # Not in CAP (see plugin-catalog.yaml)
+  - { id: "chucknorris" }
+  - { id: "manage-permission" }
